@@ -1,0 +1,6 @@
+streamlit
+google-genai
+qdrant-client
+fastembed
+sentence-transformers
+sqlite3
